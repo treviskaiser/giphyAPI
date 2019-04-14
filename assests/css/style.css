@@ -2,8 +2,24 @@
     margin: 5px 5px 5px 0px;
     }
 
+body{
+    background: fixed;
+    background-image: url(../css/pride\ rock.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    
+}
+
+#picture{
+display: block;
+width: 50%;
+margin-left: auto;
+margin-right: auto;
 
 
-.ratings{
-    display: block;
+}
+
+.style {
+    display: inline-block;
+    margin: 10px;
 }
